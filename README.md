@@ -1,3 +1,8 @@
+> **포크 안내**
+> - 원본: [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) (작성자 NomaDamas, MIT 라이선스). 원본 저작권 표기와 LICENSE는 그대로 유지합니다.
+> - 수정: [sandy-seize](https://github.com/sandy-seize) (2026-11-23 포크). 수정 내역은 아래 `CHANGES-sandy.md` 에 기록합니다.
+> - 원본 업데이트를 받으려면 GitHub 의 Sync fork 를 사용합니다.
+
 🌐 [한국어](README.md) | [English](README.en.md) | [中文](README.zh.md) | [日本語](README.ja.md)
 
 > 외국인 관광객 및 한국 거주 외국인은 영어·중국어·일본어 README를 참고하세요.
